@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://localhost/timber/xmlrpc.php">
+
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+	<!--[if lt IE 9]>
+	<script src="http://localhost/timber/wp-content/themes/hudson-construction/js/html5.js"></script>
+	<![endif]-->
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Hudson Constructions</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Hudson Constructions &raquo; Feed" href="http://localhost/timber/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hudson Constructions &raquo; Comments Feed" href="http://localhost/timber/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/timber\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.12"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://localhost/timber/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://localhost/timber/wp-content/themes/hudson-construction/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='http://localhost/timber/wp-content/themes/hudson-construction/style.css?ver=4.6.12' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://localhost/timber/wp-content/themes/hudson-construction/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://localhost/timber/wp-content/themes/hudson-construction/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://localhost/timber/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script><script>jQueryWP = jQuery;</script>
+<script type='text/javascript' src='http://localhost/timber/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://localhost/timber/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/timber/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/timber/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.12" />
+<link rel="canonical" href="http://localhost/timber/" />
+<link rel='shortlink' href='http://localhost/timber/' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost/timber/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Ftimber%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost/timber/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Ftimber%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body class="home page page-id-5 page-template page-template-page-home page-template-page-home-php">
+<!-- Header Start -->
+<header>
+	<section class="header_top">
+      <h1 style="display: none;">Construction</h1>
+		<div class="container clearfix">
+			<div class="logo_cont">
+                <a href="http://localhost/timber/"><img src="http://localhost/timber/wp-content/themes/hudson-construction/images/logo.png" alt=""></a>
+            </div>
+            <nav>
+            	<h2 class="mobile_menu_header">Main Navigation <a href="#"></a></h2>
+				<ul id="menu-main-navigation" class="navigation"><li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item menu-item-17"><a href="http://localhost/timber/">Home</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://localhost/timber/about-us/">About Us</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19"><a>Service</a>
+<ul class="sub-menu">
+	<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://localhost/timber/service/carports-service/">Carports Service</a></li>
+	<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="http://localhost/timber/service/kitchens-service/">Kitchens Service</a></li>
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="http://localhost/timber/service/decking-service/">Decking Service</a></li>
+</ul>
+</li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://localhost/timber/gallery/">Gallery</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://localhost/timber/testimonials/">Testimonials</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://localhost/timber/contact-us/">Contact Us</a></li>
+</ul>            </nav>
+		</div>
+	</section>
+
+	<section class="banner">
+      <h2 style="display: none;">Construction</h2>
+				<ul class="rslides" id="slider">
+                        <li>
+                <img width="1583" height="620" src="http://localhost/timber/wp-content/uploads/2016/09/banner_1.jpg" class="attachment-full size-full wp-post-image" alt="banner_1" srcset="http://localhost/timber/wp-content/uploads/2016/09/banner_1.jpg 1583w, http://localhost/timber/wp-content/uploads/2016/09/banner_1-300x117.jpg 300w, http://localhost/timber/wp-content/uploads/2016/09/banner_1-768x301.jpg 768w, http://localhost/timber/wp-content/uploads/2016/09/banner_1-1024x401.jpg 1024w" sizes="(max-width: 1583px) 100vw, 1583px" />                <div class="banner_inner">
+                    <div class="container clearfix">
+                                            </div>
+                </div>
+            </li>
+                        <li>
+                <img width="1583" height="620" src="http://localhost/timber/wp-content/uploads/2016/09/banner2.jpg" class="attachment-full size-full wp-post-image" alt="banner2" srcset="http://localhost/timber/wp-content/uploads/2016/09/banner2.jpg 1583w, http://localhost/timber/wp-content/uploads/2016/09/banner2-300x117.jpg 300w, http://localhost/timber/wp-content/uploads/2016/09/banner2-768x301.jpg 768w, http://localhost/timber/wp-content/uploads/2016/09/banner2-1024x401.jpg 1024w" sizes="(max-width: 1583px) 100vw, 1583px" />                <div class="banner_inner">
+                    <div class="container clearfix">
+                                            </div>
+                </div>
+            </li>
+                        <li>
+                <img width="1583" height="620" src="http://localhost/timber/wp-content/uploads/2016/09/banner3.jpg" class="attachment-full size-full wp-post-image" alt="banner3" srcset="http://localhost/timber/wp-content/uploads/2016/09/banner3.jpg 1583w, http://localhost/timber/wp-content/uploads/2016/09/banner3-300x117.jpg 300w, http://localhost/timber/wp-content/uploads/2016/09/banner3-768x301.jpg 768w, http://localhost/timber/wp-content/uploads/2016/09/banner3-1024x401.jpg 1024w" sizes="(max-width: 1583px) 100vw, 1583px" />                <div class="banner_inner">
+                    <div class="container clearfix">
+                                            </div>
+                </div>
+            </li>
+                        <li>
+                <img width="1583" height="620" src="http://localhost/timber/wp-content/uploads/2016/09/banner4.jpg" class="attachment-full size-full wp-post-image" alt="banner4" srcset="http://localhost/timber/wp-content/uploads/2016/09/banner4.jpg 1583w, http://localhost/timber/wp-content/uploads/2016/09/banner4-300x117.jpg 300w, http://localhost/timber/wp-content/uploads/2016/09/banner4-768x301.jpg 768w, http://localhost/timber/wp-content/uploads/2016/09/banner4-1024x401.jpg 1024w" sizes="(max-width: 1583px) 100vw, 1583px" />                <div class="banner_inner">
+                    <div class="container clearfix">
+                                            </div>
+                </div>
+            </li>
+                    </ul>
+        	</section>
+</header>
+<!-- Header End -->	
+
+<!-- Body Start -->
+<main>
+	<section class="main_content home">
+		<div class="container clearfix">
+			                <h1><strong>Welcome</strong> To Hudson Construction</h1>
+<p>Hudson Construction can be one of the renowned companies that you need for the different home constructional or the renovating services. The latest technologies are used for the construction and the renovation works that the company offers. The busy lifestyle of every individual these days are the barriers or the obstructions, which are created in the daily lives. This is also true for the repair or the refurbishing works that anyone provides. The understanding of the needs of every individual, the team of Hudson Construction thinks of providing the services during the suitable time for you. This does not hamper your regular works or the free time of you. You can avail the friendly service offered by this company.</p>
+<p>Josh Hudson, the founder of the company has made a new era in the constructional services with his 20 years of experience. The kitchen renovations, the carport services or the decking services are provided with the most effective and skilled staffs. The services offered are not restricted to the inside of the house, rather these are also offered around the home.</p>
+<p>Mainly the maintenance works are very much tough due to scarcity of time and manpower, Josh targeted these types of services. With the license of performing both the small scale and the large scale projects, the company is growing more in all types of home renovations, designing, and installation of the carports, traditional carpentry, custom carpentry, maintenance as well as repairs. When you contact Josh Hudson for any repairing or refurbishing job, you will get the area or the portion in a new form. This is for the furniture or the inside or the outside of the home. Throughout South Australia, Hudson is a famous name, where people enjoy the lifestyle by hiring him for building the custom designed pergolas as well as decks or may be simply transforming the old spaces into new and improved one. The house extensions are also a bright part of Josh and his team.</p>
+<p>Whether you require any of the services, you can think again to contact Josh Hudson. But do not think much and just proceed to call Hudson Construction as soon as possible. Otherwise, you will go on thinking the renovation portions become more prone to accidents or may get damaged with time.</p>
+<p><a href="http://localhost/timber/about-us/">Read More</a></p>
+            		</div>
+	</section>
+
+	<section class="home_services">
+		<div class="container clearfix">
+			<h2>Services</h2>
+			<div class="services_cont">
+								    				 		<div class="home_services_block">
+							<h3>Carports Service</h3>
+							<img src="http://localhost/timber/wp-content/uploads/2016/09/home_service_1-1.jpg" alt="">
+							<div class="content">
+								<p>The carports for house and the office premises or commercial places are the covered structures.</p>
+								<p><a href="http://localhost/timber/service/carports-service/">Read More</a></p>
+							</div>
+						</div>
+				    				 		<div class="home_services_block">
+							<h3>Kitchens Service</h3>
+							<img src="http://localhost/timber/wp-content/uploads/2016/09/home_service_2.jpg" alt="">
+							<div class="content">
+								<p>One of the essential parts of any house is the kitchen. As without food, nobody can survive long, instead of  possessing huge amount of other things.</p>
+								<p><a href="http://localhost/timber/service/kitchens-service/">Read More</a></p>
+							</div>
+						</div>
+				    				 		<div class="home_services_block">
+							<h3>Decking Service</h3>
+							<img src="http://localhost/timber/wp-content/uploads/2016/09/home_service_3.jpg" alt="">
+							<div class="content">
+								<p>One of the most beautiful parts of this designing is the decking and that can be either from composite hardwood or softwood. </p>
+								<p><a href="http://localhost/timber/service/decking-service/">Read More</a></p>
+							</div>
+						</div>
+				    							</div>
+		</div>
+	</section>
+
+	<section class="home_gallery">
+		<div class="container clearfix">
+			<h2>Gallery</h2>
+						<a href="./gallery/" class="button">View More</a>
+		</div>
+	</section>
+
+	<section class="home_testimonial">
+		<div class="container clearfix">
+			<h2>Testimonials</h2>
+						<div class="testimonial_main">
+				<img width="166" height="166" src="http://localhost/timber/wp-content/uploads/2016/09/home_testimonial_img-166x166.jpg" class="attachment-testimonial-thumbnail size-testimonial-thumbnail wp-post-image" alt="home_testimonial_img" srcset="http://localhost/timber/wp-content/uploads/2016/09/home_testimonial_img.jpg 166w, http://localhost/timber/wp-content/uploads/2016/09/home_testimonial_img-150x150.jpg 150w" sizes="(max-width: 166px) 100vw, 166px" />				<p>WOW, this is absolutely incredible, Josh has done such an amazing job.</p>
+				<p class="name"><strong>Sally McKechnie</strong></p>
+			</div>
+						<a href="./testimonials/" class="button">View More</a>
+		</div>
+	</section>
+</main>
+<!-- Body End -->
+
+
+<!-- Footer Start -->
+<footer>
+	<section class="footer_top">
+      <h2 style="display: none;">Construction</h2>
+		<div class="container clearfix">
+			<div class="footer_top_left">
+																</div>
+			<div class="footer_top_right">
+																</div>
+		</div>
+	</section>
+
+	<section class="footer_bottom">
+      <h2 style="display: none;">Construction</h2>
+		<div class="container clearfix">
+			<div class="footer_bottom_left">
+																</div>
+			<div class="footer_bottom_right">
+				<p>© 2018 Hudson Construction. All rights reserved.</p>
+			</div>
+		</div>
+	</section>
+</footer>
+<!-- Footer End -->
+
+<a id='backTop'>Back To Top</a>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+<link rel="stylesheet" href="http://localhost/timber/wp-content/themes/hudson-construction/css/responsiveslides.css">
+<script src="http://localhost/timber/wp-content/themes/hudson-construction/js/responsiveslides.js"></script>
+
+<script type="text/javascript" src="http://localhost/timber/wp-content/themes/hudson-construction/js/jquery.backTop.min.js"></script>
+
+<script type="text/javascript">
+$("#slider").responsiveSlides({
+    auto: true,
+    pager: true,
+    nav: false,
+    speed: 300,
+});
+
+$( ".envira-gallery-item a" ).append( "<span class='zoom'></span>" );
+
+$('#backTop').backTop({
+    'position' : 1000,
+    'speed' : 500,
+    'color' : 'red',
+});
+
+$( ".mobile_menu_header a" ).click(function(e) {
+    e.preventDefault();
+    $( ".navigation" ).slideToggle();
+});
+</script>
+
+<script type='text/javascript' src='http://localhost/timber/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/timber/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://localhost/timber/wp-content/themes/hudson-construction/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/timber/wp-content/themes/hudson-construction/js/functions.js?ver=20150330'></script>
+<script type='text/javascript' src='http://localhost/timber/wp-includes/js/wp-embed.min.js?ver=4.6.12'></script>
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced
+
+ Served from: localhost @ 2018-11-21 08:46:19 by W3 Total Cache -->
