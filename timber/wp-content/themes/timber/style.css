@@ -3859,6 +3859,8 @@ button, input[type="button"], input[type="reset"], input[type="submit"], .post-p
 	left: 10px;
 	width: 100%;
 }
+.footer_block > div .phone a { color: #FFF; text-decoration: none; border: 0px; }
+.header_phone a { color: #015cab; text-decoration: none; border: 0px; }
 }
  @media screen and (max-width: 670px) {
 .home_services_block {
